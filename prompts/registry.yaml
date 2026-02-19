@@ -1,0 +1,6 @@
+agents:
+  agent-code-reviewer:
+    current_version: 1.0.0
+    description: "A code reviewer agent specialized in reviewing code diffs."
+    path: "agent-code-reviewer/v1.0.0/prompt.yaml"
+    model: gpt-5-nano

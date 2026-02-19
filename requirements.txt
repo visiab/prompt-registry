@@ -1,0 +1,5 @@
+pydantic==2.12.2
+pydantic_core==2.27.2
+python-dotenv==1.2.1
+PyYAML==6.0.3
+pytest==8.2.1
